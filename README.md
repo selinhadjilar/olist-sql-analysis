@@ -25,6 +25,7 @@ Six business questions answered with SQL in PostgreSQL, using the public Olist B
 - Revenue is item price in Brazilian reals (BRL), excluding freight, for delivered orders only.
 - Results are descriptive; I did not test for statistical significance or causes.
 - The data is not included. Download it from Kaggle ("Brazilian E-Commerce Public Dataset by Olist") and load it with the `\copy` commands in the SQL file.
+- Findings are presented in an interactive Tableau dashboard: https://public.tableau.com/views/OlistE-commerceAnalysis_17931347125170/Dashboard1
 
 ## Tools
 PostgreSQL, pgAdmin, psql
